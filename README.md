@@ -1,24 +1,7 @@
-# vue-website
+# Portfolio Website
 
-## Project setup
-```
-yarn install
-```
+This is my personal portfolio website used to host my projects and contact information.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Technologies Used
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The website will be made using the Vue.js JavaScript framework, hosted on a Raspberry Pi server within my home alongside a MariaDB database.
